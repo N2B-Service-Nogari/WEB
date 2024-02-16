@@ -340,7 +340,7 @@ function GithubPage() {
               width: '70px',
               height: '26px',
               backgroundColor: '#007DFF',
-              fontSize: '0.1rem',
+              fontSize: '0.8rem',
               whiteSpace: 'nowrap',
             }}
             onClick={onClickHandler}

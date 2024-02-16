@@ -379,7 +379,7 @@ function TistoryPage() {
               width: '70px',
               height: '26px',
               backgroundColor: `${palette.primary}`,
-              fontSize: '0.1rem',
+              fontSize: '0.8rem',
               whiteSpace: 'nowrap',
             }}
             onClick={onClickHandler}
